@@ -1,0 +1,2 @@
+# miamiroyal
+Static site: miamiroyal
